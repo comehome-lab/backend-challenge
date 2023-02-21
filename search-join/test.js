@@ -36,6 +36,4 @@ describe('search-transactions', function() {
       }
     ]);
   });
-
-  // write more tests
 });
